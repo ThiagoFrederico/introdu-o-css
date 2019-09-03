@@ -6,12 +6,20 @@ body{
     font-family: 'Caesar Dressing', cursive;
     margin: 0;
 }
+h1{
+    margin: 0;
+}
+header{
+    background-image: url("../images/gloria_maria.jpg");
+    background-position: 0;
+    height: 600px;
+}
 nav{
     align-items: center;
     background-color: aquamarine;
     display: flex;
     height: 50px;
-    justify-items: space-around;
+    justify-content: space-around;
     
 
 }
